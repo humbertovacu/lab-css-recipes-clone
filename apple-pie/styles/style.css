@@ -42,3 +42,29 @@ p {
     height: auto;
     margin-bottom: 20px;
 }
+
+ul {
+    list-style: none;
+    margin-bottom: 30px;
+    line-height: 1.5em;
+}
+
+h2 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+ol {
+    list-style: none;
+    line-height:1.4em;
+    width: 90%;
+}
+
+.regular {
+    margin-left: 30px;
+}
+
+#recipeinfo {
+    text-align: center;
+    padding-top: 10px;
+}
