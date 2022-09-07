@@ -13,7 +13,7 @@ h1 {
     font-size: 100px;
     position: absolute;
     top: 230px;
-    left: 620px;
+    left: 570px;
     color: white;
     
 }
@@ -26,6 +26,19 @@ h1 {
 p {
     text-align: justify;
     font-size: 1.5em;
-    font-weight: normal;
+    font-weight: light;
+    width: 90%;
+    padding: 35px 0;
 }
 
+#intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.smallimg {
+    width: 400px;
+    height: auto;
+    margin-bottom: 20px;
+}
